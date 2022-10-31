@@ -13,4 +13,7 @@ this project is to learn docker.
 
 - we upload the code to github
     -we can use gitignore to chose which files not to upload
-    -
+
+- create the container
+    - docker run -it -p 5005:5005 flaskapp
+
